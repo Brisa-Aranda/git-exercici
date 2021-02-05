@@ -1,5 +1,9 @@
 txt para ejercicio git/github
 
+<<<<<<< HEAD
 Modificació per branca branch1
 
 Segona modificació 
+=======
+Modificació per branca branch1
+>>>>>>> branch1
